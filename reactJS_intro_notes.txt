@@ -1,1 +1,1 @@
-Intro to ReactJS notes
+Sitepoint.com - Intro to ReactJS - course notes
